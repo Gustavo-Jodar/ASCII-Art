@@ -155,12 +155,13 @@ This project had incremental goals:
 3. Video Conference between 2 computers in ASCII;
 
 ## Authors and Acknowledment
+- Gustavo JODAR:
+  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gustavo-jodar>
+  - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Gustavo-Jodar)
+
 - Guilherme TROFINO:
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/guilherme-trofino/)
   - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tr0fin0)
-- Gustavo JODAR:
-  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gustavo-jodar/)
-  - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Gustavo-Jodar)
 
 We greatly appreciate our [IN204](https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/3722/IN204-oriente-objet-programmation-et-genie-logiciel?from=D2) teachers at [ENSTA](https://www.ensta-paris.fr/):
 - Bruno Monsuez
